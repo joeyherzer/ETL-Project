@@ -1,4 +1,4 @@
-<big><Big># ETL-Project<small><small>
+<h1><b> ETL-Project</h1></b>
 
 The purpose of the ETL project was to clean and prepare data using ETL methodologies learned within the course.  I wanted to understand how the cost of living and GDP related from country to country.  I sourced country master data and country cost of living data from Kaggle. I cleaned and prepared the data using the Pandas library within Jupyter Notebook before pushing it to my Postgres Database via SQLAlchemy. Below was the process:
 
